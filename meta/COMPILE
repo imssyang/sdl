@@ -1,0 +1,2 @@
+
+./configure --prefix=/opt/sdl --sysconfdir=/opt/sdl/conf 
